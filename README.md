@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Engineer | Ruby on Rails | React | Backend Focused 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJwYXFqMXVxZnBoNHo2dHN4bHJ6enIwaHQxbmRmdjEwcmI3cnowNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="400" />
 </p>
 
 ---
@@ -13,7 +13,6 @@
 - 🐳 Working with **Docker & PostgreSQL**
 - ⚙️ Interested in Backend Architecture & System Design
 - ☁️ Learning AWS & DevOps fundamentals
-- 🌍 Goal: Remote engineering role (USD-based opportunities)
 
 ---
 
