@@ -49,21 +49,6 @@
 
 ---
 
-## 🚀 Highlight Projects
-
-### 🔹 Makerble (Impact Tracking Platform)
-- Built dynamic dashboards
-- Optimized ActiveRecord queries
-- Implemented role-based access control
-- AJAX & Stimulus integrations
-
-### 🔹 Bug Classification using NLP
-- Applied SVM & LDA models
-- Automated VALID vs INVALID bug triage
-- Improved bug processing efficiency
-
----
-
 ## 🧠 Currently Learning
 
 - Advanced Rails patterns
@@ -76,10 +61,10 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/sanchalg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sanchal.ghosh.1@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
